@@ -37,11 +37,7 @@
 
   <a href="https://unstop.com/u/challcha4210" target="_blank">
     <img alt="Unstop" src="https://img.shields.io/badge/Unstop-FF6B6B.svg?style=for-the-badge&logo=Unstop&logoColor=white&colorA=FF6B6B&colorB=FFB347&animation=twinkle" />
-  </a>
 
-  <a href="https://leetcode.com/u/5y7iP3XZOv/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white&colorA=FFA116&colorB=FFEB3B&animation=twinkle" />
-  </a>
 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=D14836&colorB=FF6F61&animation=twinkle" />
