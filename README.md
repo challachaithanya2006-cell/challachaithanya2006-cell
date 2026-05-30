@@ -8,7 +8,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=challachaithanya2006-cell&label=PROFILE+VIEWS&style=for-the-badge&color=0A66C2"/>
+<img src="https://img.shields.io/badge/Profile%20Views-4026-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-orange?style=for-the-badge" />
 
 </div>
 
@@ -50,17 +52,19 @@ Passionate about software engineering, research, developer tools, and creating i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,git,github,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,git,github,html,css,vscode,tensorflow,pytorch" />
 
 </div>
 
-### Core Competencies
+---
+
+## 🎯 Areas of Interest
 
 * Full Stack Web Development
-* MERN Stack Applications
 * Artificial Intelligence & Machine Learning
 * Open Source Development
 * Data Analytics & Research
+* Blockchain & Financial Research
 * Software Engineering
 
 ---
@@ -69,19 +73,19 @@ Passionate about software engineering, research, developer tools, and creating i
 
 ### 🎓 Student Academic Management Portal
 
-A full-stack academic management platform built using **React.js, Node.js, Express.js, and MongoDB** featuring attendance tracking, course administration, result management, and secure role-based authentication.
+Full-stack academic management platform built using React.js, Node.js, Express.js, and MongoDB featuring attendance tracking, result management, course administration, and secure role-based authentication.
 
 ### 📊 Synthetic Data Generator Pro
 
-A Microsoft Edge Extension designed for generating privacy-friendly synthetic datasets for software testing, validation, and development workflows.
+Microsoft Edge Extension for generating privacy-friendly synthetic datasets for software testing and development workflows.
 
 ### 🔐 MERN Authentication System
 
-A secure authentication platform featuring protected routes, session handling, authorization controls, and modern backend security practices.
+Secure authentication system with protected routes, session handling, authorization controls, and backend security implementation.
 
 ### 🤖 Smart Code Assistant CLI
 
-An AI-powered developer assistant built with Python and Ollama LLM that provides debugging assistance, code explanations, optimization suggestions, and automated test generation.
+AI-powered developer assistant leveraging Python and Ollama LLM for debugging, optimization, code explanation, and automated test generation.
 
 ---
 
@@ -91,44 +95,42 @@ An AI-powered developer assistant built with Python and Ollama LLM that provides
 
 **Published in SSRN Electronic Journal**
 
-Conducted event-study analysis on cryptocurrency markets using statistical modeling, volatility analysis, and financial data analytics to evaluate market reactions to regulatory events and exchange delistings.
+Research focused on cryptocurrency markets, event-study methodology, volatility modeling, abnormal returns, and blockchain finance analytics.
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **Winner — VVIT Hackathon**
+🥇 Winner — VVIT Hackathon
 
-📄 **SSRN Published Research Author**
+📄 SSRN Published Research Author
 
-🌐 **Microsoft Edge Extension Publisher**
+🌐 Microsoft Edge Extension Publisher
 
-🤝 **Hacktoberfest Open Source Contributor & Maintainer**
+🤝 Hacktoberfest Open Source Contributor & Maintainer
 
-👥 **Contributor to a 40K+ Student Technology Community**
+👥 Contributor to a 40K+ Student Technology Community
 
 ---
 
 ## 🎯 Current Focus
 
-```text
-→ Advanced MERN Stack Development
-→ Artificial Intelligence Applications
-→ Machine Learning Projects
-→ Open Source Contributions
-→ Research & Publications
-→ Scalable Product Development
-```
+* Advanced MERN Stack Development
+* Artificial Intelligence Applications
+* Machine Learning Projects
+* Open Source Contributions
+* Research & Publications
+* Scalable Product Development
 
 ---
 
 ## 📈 Professional Goals
 
 * Building impactful software products
+* Publishing quality technical research
 * Contributing to open-source ecosystems
-* Publishing high-quality technical research
-* Developing AI-powered applications
-* Creating solutions for real-world challenges
+* Developing AI-powered solutions
+* Solving real-world challenges through technology
 
 ---
 
