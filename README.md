@@ -1,67 +1,183 @@
-<!-- ==========================
-     Welcome Header
-========================== -->
-# Hey there 👋 I am CHALLA NAGA CHAITANYA SAI
+<div align="center">
 
-<!-- Animated typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF&center=false&vCenter=true&width=600&lines=Love+to+solve+problems+using+code;Always+curious+to+learn+new+tech)](https://git.io/typing-svg)
+# CHALLA NAGA CHAITANYA SAI
 
-<!-- Profile views -->
-![Profile views](https://komarev.com/ghpvc/?username=challanagachaitanyasai&color=blue)
+### Full Stack Developer • AI & Machine Learning Enthusiast • Open Source Contributor • Researcher
 
-<!-- ==========================
-     About Me Section
-========================== -->
-- 🔭 I’m currently working on: Flutter apps, Web projects, and AI/ML exploration  
-- 🌱 I’m currently learning: Machine Learning, System Design, and Open Source Collaboration  
-- 💬 Ask me about: ML, Flutter, Python, DSA, Hackathons  
-- 🎯 Goal: Build impactful tech products and communities  
-- ⚡ Fun fact: I’m also a coding content creator with 10k+ followers 🎉
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;SSRN+Published+Researcher;Building+Technology+for+Real-World+Impact" />
 
-<!-- Rainbow divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</p>
+<br>
 
-<!-- ==========================
-     Social Links (Animated Gradient)
-========================== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/challa-naga-chaitanya-sai-oo777/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0A66C2&colorB=00F7FF&animation=twinkle" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=challanagachaitanyasai&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-  <a href="https://www.instagram.com/challa_chaitanya_07/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&colorA=E4405F&colorB=FF69B4&animation=twinkle" />
-  </a>
+<img src="https://img.shields.io/github/followers/challanagachaitanyasai?style=for-the-badge"/>
 
-  <a href="https://unstop.com/u/challcha4210" target="_blank">
-    <img alt="Unstop" src="https://img.shields.io/badge/Unstop-FF6B6B.svg?style=for-the-badge&logo=Unstop&logoColor=white&colorA=FF6B6B&colorB=FFB347&animation=twinkle" />
+<img src="https://img.shields.io/github/stars/challanagachaitanyasai?style=for-the-badge"/>
 
+</div>
 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=D14836&colorB=FF6F61&animation=twinkle" />
-  </a>
-</p>
+---
 
-<!-- Rainbow divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
-</p>
+## 👨‍💻 About Me
 
-<!-- ==========================
-     GitHub Contributions Snake Animation
-========================== -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Graph" />
+🎓 B.Tech Computer Science Engineering Student at JNTUK University College of Engineering, Narasaraopet
 
-<!-- Animated gradient line -->
-<hr style="border: none; height: 4px; 
-    background-image: linear-gradient(90deg, red, orange, yellow, green, cyan, blue, violet); 
-    background-size: 400% 400%; 
-    animation: rainbow 5s ease infinite;">
+💻 Passionate about Full Stack Development, Artificial Intelligence, and Open Source Technologies
 
+🚀 Building scalable web applications using the MERN Stack
 
+📚 Published Research Author in SSRN Electronic Journal
+
+🌍 Active Open Source Contributor and Hacktoberfest Maintainer
+
+🤝 Community Builder through Geeks Hive, impacting 40,000+ students
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  ⚡ Let's build something amazing together!
+
+<a href="https://www.linkedin.com/in/challa-naga-chaitanya-sai-oo777/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/challanagachaitanyasai">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:challachaithanya2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Winner — VVIT Hackathon
+
+📄 SSRN Published Research Author
+
+🌐 Microsoft Edge Extension Publisher
+
+🤝 Hacktoberfest Contributor & Maintainer
+
+👥 Geeks Hive Community Contributor
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,mongodb,git,github,html,css,vscode,tensorflow,pytorch" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Academic Management Portal
+
+Full-stack academic management system built using React.js, Node.js, Express.js, and MongoDB featuring attendance tracking, result processing, course management, and role-based authentication.
+
+### 📊 Synthetic Data Generator Pro
+
+Microsoft Edge Extension for generating privacy-focused synthetic datasets for testing and development workflows.
+
+### 🔐 MERN Stack Authentication System
+
+Authentication system with protected routes, secure sessions, user authorization, and backend security implementation.
+
+### 🤖 Smart Code Assistant CLI
+
+AI-powered developer assistant using Python and Ollama LLM for code explanation, debugging, optimization, and test generation.
+
+---
+
+## 📚 Research Publication
+
+### Regulatory Shocks, Exchange Delistings, and Volatility Dynamics in Privacy Coins: An Event Study Analysis on Monero (XMR)
+
+📄 Published in SSRN Electronic Journal
+
+Research focused on cryptocurrency markets, abnormal returns, volatility modeling, blockchain finance, and event-study methodology.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=challanagachaitanyasai&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=challanagachaitanyasai&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=challanagachaitanyasai&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=challanagachaitanyasai&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=challanagachaitanyasai&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Advanced MERN Stack Development
+* Artificial Intelligence & Machine Learning
+* Open Source Contributions
+* Research & Publications
+* Scalable Web Applications
+
+---
+
+<div align="center">
+
+### 💡 "Building Technology That Creates Real-World Impact"
+
+⭐ If you find my work interesting, consider following me and exploring my repositories.
+
+</div>
