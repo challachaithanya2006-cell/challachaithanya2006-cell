@@ -69,6 +69,18 @@ Passionate about software engineering, research, developer tools, and creating i
 
 ---
 
+## 🏆 Quick Highlights
+
+<div align="center">
+
+| 👥 Community             | 🤝 Open Source               | 📄 Research               |
+| ------------------------ | ---------------------------- | ------------------------- |
+| **40K+ Community Reach** | **Contributor & Maintainer** | **SSRN Published Author** |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎓 Student Academic Management Portal
@@ -124,13 +136,13 @@ Research focused on cryptocurrency markets, event-study methodology, volatility 
 
 ---
 
-## 📈 Professional Goals
+## 🐍 Contribution Snake
 
-* Building impactful software products
-* Publishing quality technical research
-* Contributing to open-source ecosystems
-* Developing AI-powered solutions
-* Solving real-world challenges through technology
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
